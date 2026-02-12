@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lenin</h1>
-<h3 align="center">Analyst Trainee @ Cognizant | Data Analytics Enthusiast | Aspiring AI Engineer</h3>
+<h3 align="center">Analyst Trainee @ Cognizant | Data Analytics Enthusiast | Aspiring AI/ML Engineer</h3>
 
 ---
 
@@ -15,31 +15,58 @@
 
 ## 🛠️ Skills & Tools
 
-### 👨‍💻 Programming
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,php,powerbi,git,github,vscode" />
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com" target="_blank">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://github.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
 </p>
-
-### 📊 Data Analytics
-- Power BI
-- Excel
-- Data Visualization
-
-### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-
+---
 
 
 
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourlink
-- Email: yourmail@gmail.com
+<p align="left">
 
+<a href="https:www.linkedin.com/in/lenin-e" target="_blank">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
+
+<a href="mailto:e.lenin2204@gmail.com">
+
+</a>
+
+</p>
 ---
 
 ⭐ From [Lenin](https://github.com/yourusername)
