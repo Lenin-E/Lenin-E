@@ -9,16 +9,16 @@
 - 📊 Passionate about Data Analytics & Business Intelligence
 - 🤖 Currently learning Artificial Intelligence & Machine Learning
 - 🌱 Improving skills in Python, SQL & Power BI
-- 🚀 Goal: Become an AI Engineer
+- 🚀 Goal: Become an AI/ML Engineer
 
 ---
 
 ## 🛠️ Skills & Tools
 
 ### 👨‍💻 Programming
-- Python
-- JavaScript
-- SQL
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,php,powerbi,git,github,vscode" />
+</p>
 
 ### 📊 Data Analytics
 - Power BI
@@ -32,30 +32,9 @@
 - PHP
 - MySQL
 
----
 
-## 📌 Projects
 
-### 🍽️ Quick Serving System
-Restaurant ordering website with payment integration.
 
-### 💡 Streetlight Repair Detector
-Detects faulty streetlights & shows location for maintenance.
-
-### 🔐 Face Recognition Door Unlock System
-Security system using face recognition technology.
-
-### 🦯 Blind Navigation Buzzer
-Helps visually impaired people navigate roads safely.
-
----
-
-## 📜 Certifications
-- Data Analytics Certification
-- SQL Certification
-- Python for Data Analysis
-
----
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/yourlink
