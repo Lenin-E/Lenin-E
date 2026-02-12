@@ -12,7 +12,11 @@
 - 📊 Passionate about Data Analytics & Business Intelligence  
 - 🤖 Currently learning Artificial Intelligence & Machine Learning  
 - 🌱 Improving skills in Python, SQL & Power BI  
-- 🚀 Career Goal: Become an AI/ML Engineer  
+- 🚀 Career Goal: Become an AI/ML Engineer
+- 📫 How to reach me <a href="mailto:e.lenin2204@gmail.com">e.lenin2204@gmail.com
+  
+</a>
+
 
 ---
 
