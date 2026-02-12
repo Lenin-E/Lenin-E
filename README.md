@@ -3,17 +3,20 @@
 
 ---
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 💫 About Me
-- 🎓 BCA Graduate
-- 💼 Working as Analyst Trainee at Cognizant
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🤖 Currently learning Artificial Intelligence & Machine Learning
-- 🌱 Improving skills in Python, SQL & Power BI
-- 🚀 Goal: Become an AI/ML Engineer
+
+- 🎓 BCA Graduate  
+- 💼 Analyst Trainee @ Cognizant  
+- 📊 Passionate about Data Analytics & Business Intelligence  
+- 🤖 Currently learning Artificial Intelligence & Machine Learning  
+- 🌱 Improving skills in Python, SQL & Power BI  
+- 🚀 Career Goal: Become an AI/ML Engineer  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
 
@@ -50,24 +53,23 @@
 </a>
 
 </p>
+
 ---
 
+## 🌐 Connect With Me
 
-
-
-## 📫 Connect With Me
 <p align="left">
 
-<a href="https:www.linkedin.com/in/lenin-e" target="_blank">
+<a href="https://linkedin.com/in/lenin-e" target="_blank">
 <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 
 <a href="mailto:e.lenin2204@gmail.com">
-
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
 </p>
+
 ---
 
-⭐ From [Lenin](https://github.com/yourusername)
-
+⭐ From [Lenin](https://github.com/Lenin-E)
